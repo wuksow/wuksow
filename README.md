@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikodem</h1>
+<h1 align="center">Hi 👋</h1>
 
 - 🌱 I’m currently learning **python and javascript**
 - 📫 You can contact me with discord: kotMichal#7578
